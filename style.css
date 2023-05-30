@@ -39,6 +39,9 @@ body {
 	background: rgba(0, 0, 0, 0.7);
 	z-index: 1;
 }
+.navbar{
+	background-color: #000;
+}
 .navbar .getstarted {
 	background: #106eea;
 	margin-left: 30px;
@@ -203,10 +206,10 @@ body {
 	background-color: #2E2C23;
 }
 .imgfoot{
-	max-width: 50px;
-	max-height: 50px;
-	background-color: #f1fbff;
-	border-radius: 28%;
+	
+	max-height: 40%;
+	max-width: 90%;
+	border-radius: 5px;
 	padding: 4px;
 
 }
