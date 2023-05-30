@@ -99,10 +99,11 @@ body {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.carousel-caption {
-		bottom: 355px;
+		bottom: 155px;
 	}
 	.carousel-caption p {
 		width: 100%;
+
 	}
 	.team .card {
 		margin-bottom: 30px;
@@ -143,6 +144,7 @@ body {
 	.card .img-fluid{
 		width: 40%;
 	}
+
 }
 .imagen-somos{
     width: 100%;
@@ -230,11 +232,7 @@ text-decoration: none;
 		text-align: center;
 	}
 }
-@media (max-width: 430px) {
-	.span{
-		font-size: x-small;
-	}
-}
+
 @media (min-width: 768px) and (max-width: 991px) {
 	.single-box {
 		margin-bottom: 50px;
